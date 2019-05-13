@@ -39,7 +39,7 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="FreeSWITCH.Managed">
-      <HintPath>..\..\deps\own\FreeSWITCH.Managed.dll</HintPath>
+      <HintPath>..\deps\FreeSWITCH.Managed.dll</HintPath>
     </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
